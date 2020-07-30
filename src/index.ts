@@ -28,5 +28,5 @@ const Test = testDecorator()(class {
 //     }
 // }
 
-const test = new Test('hsq')
+const test = new Test('huangsiqin')
 console.log(test.getName())
